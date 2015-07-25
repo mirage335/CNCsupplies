@@ -1,0 +1,92 @@
+_Filament_
+PLA - http://www.amazon.com/Lulzbot-Printer-Filament-Diameter-Spool/dp/B00U3KFG92/ref=sr_1_3?s=industrial&ie=UTF8&qid=1428551982&sr=1-3&keywords=white+3mm+PLA+filament
+ABS - http://www.amazon.com/Lulzbot-Printer-Filament-Diameter-Spool/dp/B00U3L9D2W/ref=sr_1_2?ie=UTF8&qid=1437789217&sr=8-2&keywords=lulzbot+ABS+filament+1kg+white
+HIPS - http://www.amazon.com/Lulzbot-Printer-Filament-Diameter-Spool/dp/B00U3KEJEK/ref=sr_1_1?s=industrial&ie=UTF8&qid=1428552347&sr=1-1&keywords=white+3mm+HIPS+filament
+
+_HotEnd_
+https://www.lulzbot.com/products/taz-extruder-fan-add-on-kit
+https://www.lulzbot.com/products/budaschnozzle-20-nozzle-025mm
+
+http://www.digikey.com/product-detail/en/RWM06224R70JA15E1/RWMB-4.7CT-ND/1587939
+
+http://www.reprapdiscount.com/hotends/67-hexagon-hotend-set.html
+
+_Bearings_
+http://www.amazon.com/LM10UU-Bearing-Bushing-Printer-MendelMax/dp/B00EO7GX42/ref=sr_1_2?s=industrial&ie=UTF8&qid=1427061592&sr=1-2&keywords=LM10UU+bearings
+https://www.lulzbot.com/products/solid-polymer-bearing-rjm-01-10mm
+http://www.amazon.com/VXB-Skateboard-Bearings-Double-Shielded/dp/B002BBGTK6/ref=sr_1_1?ie=UTF8&qid=1428551462&sr=8-1&keywords=608ZZ
+
+_Screws_
+M3 x 6 set screw - https://www.fastenal.com/web/products/details/90019?searchMode=productSearch&filterByVendingMachine=
+
+M3 x 6 -https://www.fastenal.com/web/products/details/1139502?searchMode=productSearch&filterByVendingMachine=
+M3 x 12 - https://www.fastenal.com/web/products/details/1139505?searchMode=productSearch&filterByVendingMachine=
+M3 x 25 - https://www.fastenal.com/web/products/details/1139508?searchMode=productSearch&filterByVendingMachine=
+M3 Washer - https://www.fastenal.com/web/products/details/0110751?searchMode=productSearch&filterByVendingMachine=
+M3 T-nuts - http://openbuildspartstore.com/tee-nuts-25-pack/
+
+M4 x 20 - https://www.fastenal.com/web/products/details/1139527?searchMode=productSearch&filterByVendingMachine=
+M4 x 55 - https://www.fastenal.com/web/products/details/ZT2530055PF0000?searchMode=productSearch&filterByVendingMachine=
+M4 Nut - https://www.fastenal.com/web/products/details/MN2530000A20000?searchMode=productSearch&filterByVendingMachine=
+M4 Washer - https://www.fastenal.com/web/products/details/MW6340000A20000?searchMode=productSearch&filterByVendingMachine=
+
+M5 x 8 - https://www.fastenal.com/web/products/details/1139543?searchMode=productSearch&filterByVendingMachine=
+M5 x 10 - https://www.fastenal.com/web/products/details/1139544?searchMode=productSearch&filterByVendingMachine=
+M5 x 14 - https://www.fastenal.com/web/products/details/1139539?searchMode=productSearch&filterByVendingMachine=
+M5 Washer - https://www.fastenal.com/web/products/details/MW6350000A20000?searchMode=productSearch&filterByVendingMachine=
+M5 T-nuts - http://openbuildspartstore.com/tee-nuts-25-pack/
+
+McMaster-Carr 94180A307
+McMaster-Carr 94180A331
+McMaster-Carr 94180A363
+McMaster-Carr 94180A361
+
+_Springs_
+http://www.homedepot.com/p/Everbilt-Spring-Assortment-Kit-84-Pack-15642/202045461
+
+_Spare_
+Timing Belts - 1164-2P-06 (2MR-1164-06) - GT2, Single sided Neoprene Belt, 2mm pitch, 582 teeth, 6mm wide,fiberglass cords - http://www.bbman.com/catalog/product/1164-2P-06 - Also https://www.lulzbot.com/products/gt2-1164mm-6mm-belt - Also http://openbuildspartstore.com/gt2-2mm-timing-belt/
+Limit Switches - http://www.think3dprint3d.com/endstop-microswitches
+
+_Maintenance_
+PTFE Grease - http://www.amazon.com/Super-Lube-Synthetic-Syncolon-Lubricant/dp/B000XBH9HI/ref=sr_1_1?ie=UTF8&qid=1428554137&sr=8-1&keywords=super+lube+ptfe+grease
+
+_BuildPlatform_
+https://www.lulzbot.com/products/borosilicate-glass-bed-300mm-x300mm
+https://www.lulzbot.com/Pet-Tape-12x12-sheet-green-5-pack
+https://www.lulzbot.com/products/24v-silicon-heater
+
+Nichrome Wire 26AWG - http://www.amazon.com/Genuine-Lightning-Vapes-Kanthal-Resistance/dp/B00JTGYS40/ref=sr_1_2?ie=UTF8&qid=1427495436&sr=8-2&keywords=nichrome+wire
+Kapton Tape - http://www.amazon.com/Mil-Kapton-Tape-Polyimide-yds/dp/B006ZFNB2I/ref=sr_1_3?ie=UTF8&qid=1427490382&sr=8-3&keywords=kapton+tape
+Thermistor - https://www.lulzbot.com/?q=products/100k-honeywell-axial-thermistor
+Binder Clips - http://www.staples.com/Staples-Small-Metal-Binder-Clips-Black-3-4-inch-Size-with-3/product_831594
+Backing and Heat Spreader - http://www.amazon.com/electronics/dp/B000P7ALZC
+Insullation - http://www.amazon.com/3M-Foam-Insulation-Insulate-Camper/dp/B00TYZTFTE/ref=sr_1_8?ie=UTF8&qid=1427504074&sr=8-8&keywords=foam+tape+insulation
+Safety Fuse - http://www.radioshack.com/443af-228ac-thermal-protector-fuse/2701321.html#.VRXNB1nIDgh
+
+PEI - http://www.amazon.com/dp/B0013HKZTA/ref=biss_dp_t_asn
+Adhesive - APPLY CAREFULLY! - http://www.amazon.com/dp/B007Y7D5NQ/ref=biss_dp_t_asn
+
+_Nichrome Calculations_
+Assuming a fixed length of nichrome wire, divided into fixed-length (fixed-resistance) elements, wired series or parallel, a suitable number of parallel configurations emerges from the following equations.
+
+Note the parallels term is squared because the length of wire is divided, then the paths for current are multiplied, exponentially affecting total resistance.
+
+elements = 36
+
+resistance = resistancePerElement = restancePerFoot = 1.64
+
+totalOhms = (elements * resistance) / (parallels^2)
+
+mod(elements,parallels) == 0 #Elements must be divisible by parallels.
+
+36*1.64/6^2 = 1.64Ohms
+
+50*3.21/10^2 = 1.605Ohms
+
+
+_Reference_
+https://ohai-kit.alephobjects.com/group/kittaz/
+https://forum.lulzbot.com/viewtopic.php?f=36&t=88&start=20
+https://www.youtube.com/watch?v=bfdjCfy5G_Y
+http://reprap.org/wiki/Mendel_heated_bed
